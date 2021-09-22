@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("hello git5 master");
         System.out.println("hello git5 hot fixed");
         System.out.println("pull test");
+        System.out.println("push test");
     }
 }
